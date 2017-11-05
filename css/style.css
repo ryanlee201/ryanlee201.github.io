@@ -1,8 +1,8 @@
-.center {
-	align-content: center;
+img {
+	width: 100px;
+	height: 100px;
 }
 
-img {
-	width: 50px;
-	height: 100px;
+.capitalize {
+	text-transform: uppercase;
 }

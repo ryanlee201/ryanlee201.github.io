@@ -3,15 +3,13 @@
     padding-bottom: 70px;
 }
 
-.margin {margin-bottom: 45px;}
-
-.portrait {
-	width: 300px;
-	height: 300px;
+.margin {
+	margin-bottom: 45px;
 }
 
+
 .sec-1 {
-	background-color: #273e47;
+	background-color: #d8c99b;
 }
 
 .sec-2 {
@@ -23,7 +21,7 @@
 }
 
 .sec-4 {
-	background-color: #d8c99b;
+	background-color: #273e47;
 }
 
 .fa {
@@ -47,7 +45,7 @@
 .resume {
 	color: white;
 	background: red;
-	width: 50px;
+	width: 100px;
 	font-weight: bold;
 
 }

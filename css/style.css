@@ -5,25 +5,17 @@ body {
 .container{
     padding-top: 70px;
     padding-bottom: 70px;
-    height: 70%;
-    width: 80%;
+    height: 500px;
+    width: 600px;
     border: 5px solid green ;
-    margin: auto;
+    margin: auto auto;
     background-color: #8A817C
 }
 
-img {
-	float: left;
-}
-
-#info {
-	float: right;
-	text-align: left;
-}
 
 .inbl {
     display: inline-block;
-    vertical-align: top;
+    vertical-align: left;
 }
 
 .fa {

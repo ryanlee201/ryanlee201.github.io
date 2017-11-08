@@ -1,6 +1,9 @@
 body {
 	background-color: black;
-	text-align: center;
+  	display: table;
+	position: absolute;
+  	height: 100%;
+  	width: 100%;
 }
 
 .container{

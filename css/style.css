@@ -12,6 +12,10 @@ body {
     background-color: #8A817C
 }
 
+.a-left {
+	text-align: left;
+}
+
 
 .inbl {
     display: inline-block;

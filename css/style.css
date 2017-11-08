@@ -10,7 +10,6 @@ body {
     border: 5px solid green ;
     margin: auto auto;
     background-color: #8A817C
-    white-space: nowrap;
 }
 
 .a-left {
@@ -20,7 +19,7 @@ body {
 
 .inbl {
     display: inline-block;
-    vertical-align: left;
+    vertical-align: middle;
 }
 
 .fa {

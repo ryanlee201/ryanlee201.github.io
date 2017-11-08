@@ -16,6 +16,13 @@ body {
 	text-align: left;
 }
 
+.right {
+	float: right
+}
+
+.left {
+	float: left;
+}
 
 .inbl {
     display: inline-block;

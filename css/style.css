@@ -4,12 +4,16 @@ body {
 }
 
 .container{
+	position: absolute;
+	z-index: 15;
+  	top: 50%;
+  	left: 50%;
+  	margin: -100px 0 0 -150px;
     padding-top: 70px;
     padding-bottom: 70px;
     height: 300px;
-    width: 600px;
+    width: 650px;
     border: 5px solid green ;
-    margin: auto auto;
     background-color: #8A817C
 
 }

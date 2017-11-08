@@ -1,15 +1,12 @@
 body {
 	background-color: black;
-  	display: table;
-	position: absolute;
-  	height: 100%;
-  	width: 100%;
 }
 
-.jumbotron{
+.container{
 	height: 350px;
     width: 650px;
-    background-color: #8A817C;
+    border: 5px solid green ;
+    background-color: #8A817C
 
 }
 

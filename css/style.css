@@ -4,28 +4,28 @@
 }
 
 .margin {
-	margin-bottom: 45px;
+	margin-bottom: 35px;
 }
 
 
 .sec-1 {
-	background-color: #D86931;
+	background-color: #F46036;
 }
 
 .sec-2 {
-	background-color: #ffffff;
-}
+	background-color: #5B85AA;
+} 
 
 .sec-3 {
-	background-color: #e6e8e6;
+	background-color: #414770;
 }
 
 .sec-4 {
-	background-color: #ced0ce;
+	background-color: #372248;
 }
 
 .sec-5 {
-	background-color: #191919;
+	background-color: #171123;
 }
 
 .fa {
@@ -33,7 +33,7 @@
     font-size: 20px;
     text-align: center;
     text-decoration: none;
-    border-radius: 10%;
+    border-radius: 0%;
 }
 
 .fa:hover {

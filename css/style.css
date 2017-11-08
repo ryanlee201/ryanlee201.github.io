@@ -9,6 +9,10 @@
     width: 80%;
 }
 
+.img {
+	float: left;
+}
+
 .margin {
 	margin-bottom: 35px;
 }

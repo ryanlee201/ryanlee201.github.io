@@ -1,4 +1,4 @@
-.body {
+body {
 	background-color: black;
 }
 
@@ -8,22 +8,16 @@
     height: 70%;
     width: 80%;
     border: 5px solid green ;
-    margin: 30px;
+    margin: auto;
+    background-color: #8A817C
 }
 
 .img {
 	float: left;
 }
 
-.margin {
-	margin-bottom: 35px;
-}
-
-
-.sec-1 {
-	background-color: #8A817C;
-	height: 100%
-
+#info {
+	float: right;
 }
 
 .fa {

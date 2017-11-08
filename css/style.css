@@ -9,23 +9,26 @@
 
 
 .sec-1 {
-	background-color: #F46036;
+	background-color: #8A817C;
+	height: 100%
 }
 
 .sec-2 {
-	background-color: #5B85AA;
+	background-color: #BCB8B1;
+	height: auto;
 } 
 
 .sec-3 {
-	background-color: #414770;
+	background-color: #F4F3EE;
+	height: 100%;
 }
 
 .sec-4 {
-	background-color: #372248;
+	background-color: #E0AFA0;
 }
 
 .sec-5 {
-	background-color: #171123;
+	background-color: #3A445D;
 }
 
 .fa {

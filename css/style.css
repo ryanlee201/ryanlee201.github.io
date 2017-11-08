@@ -4,9 +4,8 @@ img {
 }
 
 .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
+    padding: 10px;
+    font-size: 10px;
     text-align: center;
     text-decoration: none;
     border-radius: 20%;
@@ -28,10 +27,9 @@ img {
 .fa-linkedin {
 	background: #0077B5;
 	color: white;
-	text-align: center;
 }
 
-.fa-envelope-o {
+.fa-envelope {
 	background: red;
 	color: grey;
 }
@@ -39,4 +37,6 @@ img {
 .resume {
 	color: white;
 	background: red;
+	width: 100%;
+
 }

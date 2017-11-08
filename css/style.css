@@ -12,13 +12,18 @@ body {
     background-color: #8A817C
 }
 
-.img {
+img {
 	float: left;
 }
 
 #info {
 	float: right;
 	text-align: left;
+}
+
+.inbl {
+    display: inline-block;
+    vertical-align: top;
 }
 
 .fa {

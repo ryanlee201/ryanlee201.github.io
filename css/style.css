@@ -10,6 +10,7 @@ body {
     border: 5px solid green ;
     margin: auto auto;
     background-color: #8A817C
+    white-space: nowrap;
 }
 
 .a-left {

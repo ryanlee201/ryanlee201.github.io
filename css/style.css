@@ -1,15 +1,17 @@
 body {
 	background-color: black;
+	text-align: center;
 }
 
 .container{
     padding-top: 70px;
     padding-bottom: 70px;
-    height: 500px;
+    height: 300px;
     width: 600px;
     border: 5px solid green ;
     margin: auto auto;
     background-color: #8A817C
+
 }
 
 .a-left {
@@ -24,9 +26,8 @@ body {
 	float: left;
 }
 
-.inbl {
-    display: inline-block;
-    vertical-align: middle;
+img {
+	padding-right: 20px;
 }
 
 .fa {

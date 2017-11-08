@@ -1,6 +1,8 @@
-.container-fluid {
+.container{
     padding-top: 70px;
     padding-bottom: 70px;
+    height: 70%;
+    width: 80%;
 }
 
 .margin {
@@ -11,24 +13,7 @@
 .sec-1 {
 	background-color: #8A817C;
 	height: 100%
-}
-
-.sec-2 {
-	background-color: #BCB8B1;
-	height: auto;
-} 
-
-.sec-3 {
-	background-color: #F4F3EE;
-	height: 100%;
-}
-
-.sec-4 {
-	background-color: #E0AFA0;
-}
-
-.sec-5 {
-	background-color: #3A445D;
+	
 }
 
 .fa {

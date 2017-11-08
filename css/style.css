@@ -18,6 +18,7 @@ body {
 
 #info {
 	float: right;
+	text-align: left;
 }
 
 .fa {

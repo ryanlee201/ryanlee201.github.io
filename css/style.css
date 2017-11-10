@@ -7,7 +7,7 @@ body {
 .container{
 	height: 350px;
     width: 700px;
-    background-color: rgba(102, 102, 153,0.7);
+    background-color: rgba(179, 179, 179,0.9);
     border-radius: 25px;
     position: absolute;
 	margin: auto;

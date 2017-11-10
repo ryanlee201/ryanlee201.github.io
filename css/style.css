@@ -1,5 +1,6 @@
 body {
 	background-image: url("../img/mtb.jpg");
+	background-size: cover;
 }
 
 .container{
@@ -8,6 +9,12 @@ body {
     background-color: #8A817C;
     vertical-align: middle;
     border-radius: 25px;
+    position: absolute;
+	margin: auto;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
 
 }
 

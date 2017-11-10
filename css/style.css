@@ -5,10 +5,9 @@ body {
 }
 
 .container{
-	opacity: 0.5;
 	height: 350px;
     width: 700px;
-    background-color: #8A817C;
+    background-color: rgba(102, 102, 153,0.1);
     border-radius: 25px;
     position: absolute;
 	margin: auto;

@@ -1,7 +1,21 @@
 body {
-	background-image: url("/img/mtb.jpg");
-	background-size: cover;
-	background-repeat: no-repeat;
+	background: url("/img/mtb.jpg") no-repeat center center fixed;;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	font-family: 'Helvetica Neue', sans-serif;
+}
+
+.profile-box {
+  width: 538px;
+  height: 400px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 30px;
+  padding-top: 50px;
+  color: white;
+  margin: 0 auto;
+  margin-top: 70px;
+  text-align: center;
 }
 
 .container{
